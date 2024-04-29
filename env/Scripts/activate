@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\HP-pc\Documents\Project\CarZone-gitproject\env"
+VIRTUAL_ENV="C:\Users\HP-pc\Documents\carzone-project-pyver3.10\CarZone-gitproject\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

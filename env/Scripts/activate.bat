@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\HP-pc\Documents\Project\CarZone-gitproject\env
+set VIRTUAL_ENV=C:\Users\HP-pc\Documents\carzone-project-pyver3.10\CarZone-gitproject\env
 
 if not defined PROMPT set PROMPT=$P$G
 
